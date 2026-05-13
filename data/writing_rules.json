@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "name": "Sentence case for buttons",
+      "do": "Add task",
+      "dont": "Add Task",
+      "why": "monday uses sentence case for all UI labels."
+    }
+  ]
+}
