@@ -1,0 +1,11 @@
+{
+  "terms": [
+    {
+      "term": "monday work management",
+      "approved": ["monday work management"],
+      "avoid": ["Monday.com Work Management", "Monday Work OS"],
+      "definition": "monday's core product, lowercase 'monday' always",
+      "usage_notes": "Brand name is lowercase even at the start of a sentence."
+    }
+  ]
+}
